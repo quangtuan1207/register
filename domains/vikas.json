@@ -1,8 +1,8 @@
 {
-    "owner": {
-        "username": "vikki-k-s"
-    },
-    "records": {
-        "CNAME": "vikki-k-s.github.io"
-    }
+  "owner": {
+    "username": "vikki-k-s"
+  },
+  "records": {
+    "CNAME": "vikki-k-s.github.io"
+  }
 }
